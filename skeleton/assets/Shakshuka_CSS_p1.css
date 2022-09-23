@@ -1,0 +1,37 @@
+body {
+	font-family: Ariel, sans-serif;
+}
+
+h1 { 
+	font-size: 38px;
+}
+
+h2 {
+	font-size: 32px;
+}
+
+ul.ingredients {/*how do I add a class called .inredient-list and assign it to this*/
+	
+}
+.ingredient-list {
+	list-style: square inside;
+}
+
+ol {
+	list-style: circle outside; 
+}
+
+/*change width of logo image to 100px of all img elements that are immediate children of the header element*/
+header > img {
+	width: 100px
+}
+
+
+body {
+	background-color: pink;
+}
+
+ul li a {
+	text-decoration: none;
+	color: inherit;
+}
