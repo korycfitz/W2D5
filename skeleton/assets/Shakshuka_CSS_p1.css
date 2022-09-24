@@ -10,9 +10,6 @@ h2 {
 	font-size: 32px;
 }
 
-ul.ingredients {/*how do I add a class called .inredient-list and assign it to this*/
-	
-}
 .ingredient-list {
 	list-style: square inside;
 }
